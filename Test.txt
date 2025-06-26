@@ -4,3 +4,13 @@ we can generate one or multiple files using this command
 touch file{1..5}.txt
 
 git checkout Test.txt to get recover data
+
+
+git clone url.........to clone the remote repo
+
+
+git status
+
+git commint -m ""
+
+git push origin main
