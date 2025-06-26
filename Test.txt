@@ -2,3 +2,5 @@ With using touch command we can generate files
 we can generate one or multiple files using this command
 
 touch file{1..5}.txt
+
+git checkout Test.txt to get recover data
