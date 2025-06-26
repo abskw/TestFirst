@@ -9,8 +9,10 @@ git checkout Test.txt to get recover data
 git clone url.........to clone the remote repo
 
 
-git status
+git status.........to check the status of local repo
 
-git commint -m ""
+git add filr.txt...........to ad  file to stage area
 
-git push origin main
+git commint -m ""......commit changes 
+
+git push origin main.............push changes files on remote Repo
