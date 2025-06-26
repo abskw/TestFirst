@@ -16,3 +16,7 @@ git add filr.txt...........to ad  file to stage area
 git commint -m ""......commit changes 
 
 git push origin main.............push changes files on remote Repo
+
+
+git rm --cached file.txt.......to unstage file
+
